@@ -2,7 +2,7 @@
 
 I am currently working as a Software Engineer at Google. I enjoy exploring and experimenting with open source projects, and potentially contributing to them.
 
-I have developed backend modules using programming languages Java, C++, Python. I am familiar with front end technologies like Angular2, feel free to reach me out at dineshsandadi@gmail.com if you have an opensource project and looking for contributors.
+I have developed backend modules using programming languages Java, C++, Python. I am familiar with front end Javascript frameworks like Angular2, feel free to reach me out at dineshsandadi@gmail.com if you have an opensource project and looking for contributors.
 
 Fun fact: I'm currently leanring Machine Learning.
 <!--
