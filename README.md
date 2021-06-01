@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working as a Software Engineer at Google. I enjoy exploring and experimenting with open source projects, and potentially contributing to them.
+I am currently working as a Software Engineer. I enjoy exploring and experimenting with open source projects, and potentially contributing to them.
 
 I have developed backend modules using programming languages Java, C++, Python. I am familiar with front end Javascript frameworks like Angular2, feel free to reach me out at dineshsandadi@gmail.com if you have an opensource project and looking for contributors.
 
